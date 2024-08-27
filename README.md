@@ -29,8 +29,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a03677d5-5f9c-4968-b9c7-5ff16b4bcf17" alt="coding-gif" width="400" />
-</p>![68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966](https://github.com/user-attachments/assets/ad64415b-e016-4d82-8cec-83f79474d811)
+  <img src="https://github.com/user-attachments/assets/ad64415b-e016-4d82-8cec-83f79474d811" alt="coding-gif" width="400" />
+</p>
 
 
 <!-- Tableau des compétences -->
