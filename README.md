@@ -1,7 +1,7 @@
 <!-- En-tête du README -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e0166a1f-c830-43cb-9280-4ae00b33495a" alt="image" width="200" />
+  <img src="https://github.com/user-attachments/assets/e0166a1f-c830-43cb-9280-4ae00b33495a" alt="image" width="auto" />
 </p>
 
 <p align="center">
