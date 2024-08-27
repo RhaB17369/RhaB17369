@@ -121,14 +121,14 @@
   <tr>
     <td>IDE & Environment</td>
     <td>
-      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" width="80" />
-      <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white" alt="PyCharm" width="80" />
-      <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" width="80" />
-      <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook" width="80" />
-      <img src="https://img.shields.io/badge/VirtualBox-1836C5?style=flat&logo=virtualbox&logoColor=white" alt="VirtualBox" width="80" />
-      <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat&logo=sublime-text&logoColor=white" alt="Sublime Text" width="80" />
-      <img src="https://img.shields.io/badge/Microsoft%20Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" alt="Microsoft Visual Studio" width="80" />
-      <img src="https://img.shields.io/badge/DataSpell-000000?style=flat&logo=jetbrains&logoColor=white" alt="DataSpell" width="80" />
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" width="100" />
+      <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white" alt="PyCharm" width="100" />
+      <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" width="100" />
+      <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook" width="100" />
+      <img src="https://img.shields.io/badge/VirtualBox-1836C5?style=flat&logo=virtualbox&logoColor=white" alt="VirtualBox" width="100" />
+      <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat&logo=sublime-text&logoColor=white" alt="Sublime Text" width="100" />
+      <img src="https://img.shields.io/badge/Microsoft%20Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" alt="Microsoft Visual Studio" width="100" />
+      <img src="https://img.shields.io/badge/DataSpell-000000?style=flat&logo=jetbrains&logoColor=white" alt="DataSpell" width="100" />
     </td>
   </tr>
   <tr>
