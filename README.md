@@ -46,81 +46,112 @@
   <tr>
     <td>Languages</td>
     <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" width="100" />
-      <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" width="100" />
-      <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" width="100" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" width="80" />
+      <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" width="80" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" width="80" />
+      <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" width="80" />
+      <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" width="80" />
+      <img src="https://img.shields.io/badge/JavaScript-F7E018?style=flat&logo=javascript&logoColor=white" alt="JavaScript" width="100" />
     </td>
   </tr>
   <tr>
     <td>Frameworks</td>
     <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" width="100" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" width="100" />
-      <img src="https://img.shields.io/badge/Django-092D40?style=flat&logo=django&logoColor=white" alt="Django" width="100" />
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring" width="100" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" width="80" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" width="80" />
+      <img src="https://img.shields.io/badge/Django-092D40?style=flat&logo=django&logoColor=white" alt="Django" width="80" />
+      <img src="https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white" alt="Node.js" width="80" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" width="80" />
+      <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" alt="jQuery" width="80" />
+      <img src="https://img.shields.io/badge/particles.js-F5F5F5?style=flat&logo=particles.js&logoColor=000000" alt="particles.js" width="80" />
     </td>
   </tr>
   <tr>
     <td>Styling & Frameworks</td>
     <td>
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" width="100" />
-      <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="Sass" width="100" />
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" width="100" />
-      <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" width="100" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" width="80" />
+      <img src="https://img.shields.io/badge/Semantic%20UI-35B8C2?style=flat&logo=semantic-ui&logoColor=white" alt="Semantic UI" width="80" />
+      <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="Sass" width="80" />
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" width="80" />
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" width="80" />
     </td>
   </tr>
   <tr>
     <td>Database</td>
     <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" width="100" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" width="100" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" width="100" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" width="80" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" width="80" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" width="80" />
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle" width="80" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" alt="Firebase" width="80" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" width="80" />
     </td>
   </tr>
   <tr>
     <td>AI & ML</td>
     <td>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" width="100" />
-      <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras" width="100" />
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" width="100" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" width="80" />
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras" width="80" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" width="80" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" width="80" />
+      <img src="https://img.shields.io/badge/Matplotlib-115B80?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib" width="80" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" width="80" />
     </td>
   </tr>
   <tr>
     <td>DevOps</td>
     <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" width="100" />
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" width="100" />
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" width="100" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" width="80" />
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" width="80" />
+      <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white" alt="Apache" width="80" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white" alt="GitHub Actions" width="80" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white" alt="Linux" width="80" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash Scripting" width="80" />
     </td>
   </tr>
   <tr>
     <td>Version Control</td>
     <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" width="100" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" width="100" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" width="80" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" width="80" />
+      <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white" alt="GitLab" width="80" />
+      <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white" alt="Bitbucket" width="80" />
     </td>
   </tr>
   <tr>
     <td>IDE & Environment</td>
     <td>
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" width="100" />
-      <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white" alt="PyCharm" width="100" />
-      <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" width="100" />
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" width="80" />
+      <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white" alt="PyCharm" width="80" />
+      <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" width="80" />
+      <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook" width="80" />
+      <img src="https://img.shields.io/badge/VirtualBox-1836C5?style=flat&logo=virtualbox&logoColor=white" alt="VirtualBox" width="80" />
+      <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat&logo=sublime-text&logoColor=white" alt="Sublime Text" width="80" />
+      <img src="https://img.shields.io/badge/Microsoft%20Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" alt="Microsoft Visual Studio" width="80" />
+      <img src="https://img.shields.io/badge/DataSpell-000000?style=flat&logo=jetbrains&logoColor=white" alt="DataSpell" width="80" />
     </td>
   </tr>
   <tr>
     <td>Hosting Experience</td>
     <td>
-      <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" alt="Heroku" width="100" />
-      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify" width="100" />
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" width="100" />
+      <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" alt="Heroku" width="80" />
+      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify" width="80" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" width="80" />
+      <img src="https://img.shields.io/badge/Hostinger-FF4C00?style=flat&logo=hostinger&logoColor=white" alt="Hostinger" width="80" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" width="80" />
+      <img src="https://img.shields.io/badge/DreamHost-5B2C6F?style=flat&logo=dreamhost&logoColor=white" alt="DreamHost" width="80" />
     </td>
   </tr>
   <tr>
     <td>APIs</td>
     <td>
-      <img src="https://img.shields.io/badge/REST-000000?style=flat&logo=rest&logoColor=white" alt="REST" width="100" />
-      <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" alt="GraphQL" width="100" />
+      <img src="https://img.shields.io/badge/REST-000000?style=flat&logo=rest&logoColor=white" alt="REST" width="80" />
+      <img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" alt="OpenAI" width="80" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" width="80" />
+      <img src="https://img.shields.io/badge/Smartsheet-0072C6?style=flat&logo=smartsheet&logoColor=white" alt="Smartsheet" width="80" />
+      <img src="https://img.shields.io/badge/Twilio-F22C60?style=flat&logo=twilio&logoColor=white" alt="Twilio" width="80" />
+      <img src="https://img.shields.io/badge/Stripe-008CFF?style=flat&logo=stripe&logoColor=white" alt="Stripe" width="80" />
+      <img src="https://img.shields.io/badge/Unsplash-000000?style=flat&logo=unsplash&logoColor=white" alt="Unsplash" width="80" />
     </td>
   </tr>
 </table>
