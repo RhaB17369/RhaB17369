@@ -1,8 +1,8 @@
 ![image](https://github.com/user-attachments/assets/e0166a1f-c830-43cb-9280-4ae00b33495a)
 
 
-- 👋 Hi, I’m @RhaB17369
-  ![coding-gif](https://github.com/user-attachments/assets/fd4051c2-5815-4047-a08e-d8f7b038ee5a)
+  👋 Hi, I’m @RhaB17369
+![coding-gif](https://github.com/user-attachments/assets/fd4051c2-5815-4047-a08e-d8f7b038ee5a)
 
 
 - 👀 I’m interested in ...
