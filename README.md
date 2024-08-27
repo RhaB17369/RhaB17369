@@ -2,6 +2,9 @@
 
 
 - 👋 Hi, I’m @RhaB17369
+
+- ![image](https://github.com/user-attachments/assets/3d75dbcb-3564-4ce5-92ee-c2e16546aa0e)
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
