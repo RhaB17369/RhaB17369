@@ -131,7 +131,7 @@
       <img src="https://img.shields.io/badge/DataSpell-000000?style=flat&logo=jetbrains&logoColor=white" alt="DataSpell" width="80" />
     </td>
   </tr>
-  <tr style="background-color: #ffffff;">
+  <tr style="background-color: #ffffff; border-bottom: 1px solid #ddd;">
     <td style="padding: 10px; font-weight: bold; color: #555;">Hosting Experience</td>
     <td style="padding: 10px;">
       <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" alt="Heroku" width="80" />
@@ -154,6 +154,17 @@
       <img src="https://img.shields.io/badge/Unsplash-000000?style=flat&logo=unsplash&logoColor=white" alt="Unsplash" width="80" />
     </td>
   </tr>
+  <tr style="background-color: #ffffff;">
+    <td style="padding: 10px; font-weight: bold; color: #555;">Operating Systems</td>
+    <td style="padding: 10px;">
+      <img src="https://img.shields.io/badge/BlackArch-000000?style=flat&logo=blackarch&logoColor=white" alt="BlackArch" width="80" />
+      <img src="https://img.shields.io/badge/Parrot%20Security-005E8C?style=flat&logo=parrot-security&logoColor=white" alt="Parrot Security" width="80" />
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu" width="80" />
+      <img src="https://img.shields.io/badge/WSL-4E8FCE?style=flat&logo=windows-subsystem-for-linux&logoColor=white" alt="WSL" width="80" />
+      <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white" alt="Kali Linux" width="80" />
+    </td>
+  </tr>
 </table>
 </p>
+
 
