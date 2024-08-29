@@ -4,7 +4,7 @@
   <img src="https://github.com/user-attachments/assets/e0166a1f-c830-43cb-9280-4ae00b33495a" alt="image" width="auto" />
 </p>
 
-<p align="center" style="font-size: 24px; font-family: Arial, sans-serif;">
+<p align="center" style="font-size: 74px; font-family: Arial, sans-serif;">
   Hi  <img src="https://raw.githubusercontent.com/PushpenderIndia/PushpenderIndia/master/media/giphy.webp" alt="Hi" width="30"/>, I’m @RhaB17369
 </p>
 
