@@ -5,7 +5,7 @@
 </p>
 
 <p align="center" style="font-size: 24px; font-family: Arial, sans-serif;">
-  <img src="https://raw.githubusercontent.com/PushpenderIndia/PushpenderIndia/master/media/giphy.webp" alt="Hi" width="40" style="vertical-align: middle;" />
+  <img src="https://raw.githubusercontent.com/PushpenderIndia/PushpenderIndia/master/media/giphy.webp" alt="Hi" width="40"/>
   Hi, I’m @RhaB17369
 </p>
 
