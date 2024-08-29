@@ -4,9 +4,11 @@
   <img src="https://github.com/user-attachments/assets/e0166a1f-c830-43cb-9280-4ae00b33495a" alt="image" width="auto" />
 </p>
 
-<p align="center">
- <img src="https://raw.githubusercontent.com/PushpenderIndia/PushpenderIndia/master/media/giphy.webp" alt="Hi" width="40" /> Hi, I’m @RhaB17369
+<p align="center" style="font-size: 24px; font-family: Arial, sans-serif;">
+  <img src="https://raw.githubusercontent.com/PushpenderIndia/PushpenderIndia/master/media/giphy.webp" alt="Hi" width="40" style="vertical-align: middle;" />
+  Hi, I’m @RhaB17369
 </p>
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fd4051c2-5815-4047-a08e-d8f7b038ee5a" alt="coding-gif" width="400" />
