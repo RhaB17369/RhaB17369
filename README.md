@@ -1,15 +1,6 @@
 <div align="center">
 
-<!-- HEADER HOLOGRAPHIC -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0010,35:12003a,65:1e0060,100:7B2FBE&height=280&section=header&text=KERNEL-X&fontSize=90&fontColor=00fff2&fontAlignY=45&desc=◈%20ARCHITECT%20OF%20SYSTEMS%20%7C%20HUNTER%20OF%20VULNERABILITIES%20%7C%20BUILDER%20OF%20WORLDS%20◈&descColor=7fffe8&descSize=14&animation=twinkling&stroke=00fff2&strokeWidth=2" />
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=800&color=00FFF2&center=true&vCenter=true&width=800&lines=%5BSYS%3A+BOOT%5D+Full-Stack+Software+Engineer+%E2%9C%93;%5BSYS%3A+LOAD%5D+Machine+Learning+%26+Deep+Learning+Engineer+%E2%9C%93;%5BSYS%3A+SCAN%5D+Penetration+Tester+%26+Red+Team+Operator+%E2%9C%93;%5BSYS%3A+BUILD%5D+Cloud+Architect+%26+DevSecOps+Engineer+%E2%9C%93;%5BSYS%3A+LINK%5D+Blockchain+%26+Web3+Developer+%E2%9C%93;%5BSYS%3A+INIT%5D+Open+Source+Contributor+%26+Researcher+%E2%9C%93)](https://git.io/typing-svg)
-
-<!-- ░░░ PARTICLE SNAKE BANNER — immersive animated background ░░░ -->
+<!-- ░░ SNAKE PARTICLES — immersive animated contribution grid ░░ -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -18,27 +9,38 @@
   <img alt="contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
-<!-- ░░░ ANIMATED TYPING ░░░ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=900&color=BF80FF&center=true&vCenter=true&width=800&lines=%5BSYS%3A+BOOT%5D+...+Full-Stack+Software+Engineer+%E2%9C%93;%5BSYS%3A+LOAD%5D+...+Machine+Learning+%26+AI+Researcher+%E2%9C%93;%5BSYS%3A+SCAN%5D+...+Penetration+Tester+%26+Red+Team+Operator+%E2%9C%93;%5BSYS%3A+BUILD%5D+...+Cloud+Architect+%26+DevSecOps+Engineer+%E2%9C%93;%5BSYS%3A+LINK%5D+...+Blockchain+%26+Web3+Developer+%E2%9C%93;%5BSYS%3A+RUN%5D+...+Open+Source+Contributor+%26+Researcher+%E2%9C%93)](https://git.io/typing-svg)
+<!-- HEADER GLITCH VIOLET -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=glitch&color=0:0a0010,35:12003a,65:1e0060,100:7B2FBE&height=270&section=header&text=KERNEL-X&fontSize=100&fontColor=bf80ff&fontAlignY=44&desc=◈%20ARCHITECT%20OF%20SYSTEMS%20%7C%20HUNTER%20OF%20VULNERABILITIES%20%7C%20BUILDER%20OF%20WORLDS%20◈&descColor=9966cc&descSize=15&animation=scaleIn&stroke=7B2FBE&strokeWidth=2" />
 
 </div>
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=800&color=BF80FF&center=true&vCenter=true&width=800&lines=%5BSYS%3A+BOOT%5D+Full-Stack+Software+Engineer+%E2%9C%93;%5BSYS%3A+LOAD%5D+Machine+Learning+%26+Deep+Learning+Engineer+%E2%9C%93;%5BSYS%3A+SCAN%5D+Penetration+Tester+%26+Red+Team+Operator+%E2%9C%93;%5BSYS%3A+BUILD%5D+Cloud+Architect+%26+DevSecOps+Engineer+%E2%9C%93;%5BSYS%3A+LINK%5D+Blockchain+%26+Web3+Developer+%E2%9C%93;%5BSYS%3A+INIT%5D+Open+Source+Contributor+%26+Researcher+%E2%9C%93)](https://git.io/typing-svg)
+
+</div>
 
 <br/>
 
 <div align="center">
 
 ```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓                                                                  ▓
-▓   ██╗  ██╗███████╗██████╗ ███╗   ██╗███████╗██╗     ██╗  ██╗     ▓
-▓   ██║ ██╔╝██╔════╝██╔══██╗████╗  ██║██╔════╝██║     ╚██╗██╔╝     ▓
-▓   █████╔╝ █████╗  ██████╔╝██╔██╗ ██║█████╗  ██║      ╚███╔╝      ▓
-▓   ██╔═██╗ ██╔══╝  ██╔══██╗██║╚██╗██║██╔══╝  ██║      ██╔██╗      ▓
-▓   ██║  ██╗███████╗██║  ██║██║ ╚████║███████╗███████╗██╔╝ ██╗     ▓
-▓   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝     ▓
-▓                                                                  ▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+                                                                                
+ ▄▄   ▄▄▄                                          ▄▄▄▄                ▄▄▄  ▄▄▄ 
+ ██  ██▀                                           ▀▀██                 ██▄▄██  
+ ██▄██      ▄████▄    ██▄████  ██▄████▄   ▄████▄     ██                  ████   
+ █████     ██▄▄▄▄██   ██▀      ██▀   ██  ██▄▄▄▄██    ██                   ██    
+ ██  ██▄   ██▀▀▀▀▀▀   ██       ██    ██  ██▀▀▀▀▀▀    ██       █████      ████   
+ ██   ██▄  ▀██▄▄▄▄█   ██       ██    ██  ▀██▄▄▄▄█    ██▄▄▄              ██  ██  
+ ▀▀    ▀▀    ▀▀▀▀▀    ▀▀       ▀▀    ▀▀    ▀▀▀▀▀      ▀▀▀▀             ▀▀▀  ▀▀▀ 
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║        ◈  BUILD WHAT DOESN'T EXIST • BREAK WHAT DOES • REPEAT  ◈           ║
+║                                                                              ║
+║            FULL-STACK • AI/ML • RED TEAM • DEVSECOPS • WEB3                  ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝                                                                               
 ```
 
 </div>
@@ -121,17 +123,17 @@ fn main() {
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=00d4ff)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=bf80ff)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 ![Keras](https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras&logoColor=D00000)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-![ONNX](https://img.shields.io/badge/ONNX-0d1117?style=for-the-badge&logo=onnx&logoColor=005CED)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
-![MLflow](https://img.shields.io/badge/MLflow-0d1117?style=for-the-badge&logo=mlflow&logoColor=0194E2)
-![Weights&Biases](https://img.shields.io/badge/W%26B-0d1117?style=for-the-badge&logo=weightsandbiases&logoColor=FFBE00)
-![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=for-the-badge&logo=ollama&logoColor=ffffff)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0d1117?style=for-the-badge&logo=python&logoColor=9B59B6)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=9966cc)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=bf80ff)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=9966cc)
+![MLflow](https://img.shields.io/badge/MLflow-0d1117?style=for-the-badge&logo=mlflow&logoColor=bf80ff)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0d1117?style=for-the-badge&logo=python&logoColor=9966cc)
+![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
+![Plotly](https://img.shields.io/badge/Plotly-0d1117?style=for-the-badge&logo=plotly&logoColor=bf80ff)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
 
 </div>
 
@@ -144,21 +146,22 @@ fn main() {
 <div align="center">
 
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-0d1117?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Nuxt.js](https://img.shields.io/badge/Nuxt-0d1117?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=bf80ff)
+![Vue.js](https://img.shields.io/badge/Vue.js-0d1117?style=for-the-badge&logo=vuedotjs&logoColor=9966cc)
+![Nuxt.js](https://img.shields.io/badge/Nuxt-0d1117?style=for-the-badge&logo=nuxtdotjs&logoColor=bf80ff)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-0d1117?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![Astro](https://img.shields.io/badge/Astro-0d1117?style=for-the-badge&logo=astro&logoColor=FF5D01)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=8CC84B)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=092D40)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=6CC24A)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=bf80ff)
+![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=9966cc)
 ![NestJS](https://img.shields.io/badge/NestJS-0d1117?style=for-the-badge&logo=nestjs&logoColor=E0234E)
-![GraphQL](https://img.shields.io/badge/GraphQL-0d1117?style=for-the-badge&logo=graphql&logoColor=E10098)
-![tRPC](https://img.shields.io/badge/tRPC-0d1117?style=for-the-badge&logo=trpc&logoColor=2596BE)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=ffffff)
+![GraphQL](https://img.shields.io/badge/GraphQL-0d1117?style=for-the-badge&logo=graphql&logoColor=bf80ff)
+![tRPC](https://img.shields.io/badge/tRPC-0d1117?style=for-the-badge&logo=trpc&logoColor=9966cc)
 ![Prisma](https://img.shields.io/badge/Prisma-0d1117?style=for-the-badge&logo=prisma&logoColor=ffffff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0d1117?style=for-the-badge&logo=framer&logoColor=0055FF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=bf80ff)
 ![Three.js](https://img.shields.io/badge/Three.js-0d1117?style=for-the-badge&logo=threedotjs&logoColor=ffffff)
+![Socket.io](https://img.shields.io/badge/Socket.io-0d1117?style=for-the-badge&logo=socketdotio&logoColor=ffffff)
 
 </div>
 
@@ -168,16 +171,18 @@ fn main() {
 
 <div align="center">
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=557C94)
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-0d1117?style=for-the-badge&logo=linux&logoColor=00C0E4)
-![BlackArch](https://img.shields.io/badge/BlackArch-0d1117?style=for-the-badge&logo=archlinux&logoColor=1793D1)
-![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=2596BE)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=7B68EE)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-0d1117?style=for-the-badge&logo=linux&logoColor=9966cc)
+![BlackArch](https://img.shields.io/badge/BlackArch-0d1117?style=for-the-badge&logo=archlinux&logoColor=bf80ff)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=FF6633)
-![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7)
-![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=nmap&logoColor=00d4ff)
-![OWASP](https://img.shields.io/badge/OWASP-0d1117?style=for-the-badge&logo=owasp&logoColor=000000)
-![Ghidra](https://img.shields.io/badge/Ghidra-0d1117?style=for-the-badge&logo=gnu&logoColor=ff0000)
-![John the Ripper](https://img.shields.io/badge/John_The_Ripper-0d1117?style=for-the-badge&logo=linux&logoColor=ff4444)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=9966cc)
+![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=ruby&logoColor=bf80ff)
+![SQLmap](https://img.shields.io/badge/SQLmap-0d1117?style=for-the-badge&logo=sqlite&logoColor=9966cc)
+![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=gnometerminal&logoColor=bf80ff)
+![OWASP](https://img.shields.io/badge/OWASP_Top10-0d1117?style=for-the-badge&logo=owasp&logoColor=9966cc)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-0d1117?style=for-the-badge&logo=linux&logoColor=7B2FBE)
+![John the Ripper](https://img.shields.io/badge/John_The_Ripper-0d1117?style=for-the-badge&logo=gnuprivacyguard&logoColor=bf80ff)
+![Ghidra](https://img.shields.io/badge/Ghidra-0d1117?style=for-the-badge&logo=gnu&logoColor=9966cc)
 
 </div>
 
@@ -190,18 +195,19 @@ fn main() {
 <div align="center">
 
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![GCP](https://img.shields.io/badge/GCP-0d1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
-![Azure](https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
-![Terraform](https://img.shields.io/badge/Terraform-0d1117?style=for-the-badge&logo=terraform&logoColor=7B42BC)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Helm](https://img.shields.io/badge/Helm-0d1117?style=for-the-badge&logo=helm&logoColor=0F1689)
+![GCP](https://img.shields.io/badge/GCP-0d1117?style=for-the-badge&logo=googlecloud&logoColor=bf80ff)
+![Azure](https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=9966cc)
+![Terraform](https://img.shields.io/badge/Terraform-0d1117?style=for-the-badge&logo=terraform&logoColor=7B2FBE)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=bf80ff)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=9966cc)
+![Helm](https://img.shields.io/badge/Helm-0d1117?style=for-the-badge&logo=helm&logoColor=bf80ff)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-0d1117?style=for-the-badge&logo=argo&logoColor=EF7B4D)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=9966cc)
 ![Prometheus](https://img.shields.io/badge/Prometheus-0d1117?style=for-the-badge&logo=prometheus&logoColor=E6522C)
 ![Grafana](https://img.shields.io/badge/Grafana-0d1117?style=for-the-badge&logo=grafana&logoColor=F46800)
 ![Ansible](https://img.shields.io/badge/Ansible-0d1117?style=for-the-badge&logo=ansible&logoColor=EE0000)
-![Vault](https://img.shields.io/badge/Vault-0d1117?style=for-the-badge&logo=vault&logoColor=FFCF25)
+![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=bf80ff)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 </div>
 
@@ -211,13 +217,14 @@ fn main() {
 
 <div align="center">
 
-![Ethereum](https://img.shields.io/badge/Ethereum-0d1117?style=for-the-badge&logo=ethereum&logoColor=3C3C3D)
-![Solidity](https://img.shields.io/badge/Solidity-0d1117?style=for-the-badge&logo=solidity&logoColor=a0a0ff)
+![Ethereum](https://img.shields.io/badge/Ethereum-0d1117?style=for-the-badge&logo=ethereum&logoColor=9966cc)
+![Solidity](https://img.shields.io/badge/Solidity-0d1117?style=for-the-badge&logo=solidity&logoColor=bf80ff)
 ![Web3.js](https://img.shields.io/badge/Web3.js-0d1117?style=for-the-badge&logo=web3dotjs&logoColor=F16822)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-0d1117?style=for-the-badge&logo=ethereum&logoColor=2535A0)
-![Hardhat](https://img.shields.io/badge/Hardhat-0d1117?style=for-the-badge&logo=hardhat&logoColor=FFF100)
-![IPFS](https://img.shields.io/badge/IPFS-0d1117?style=for-the-badge&logo=ipfs&logoColor=65C2CB)
-![Foundry](https://img.shields.io/badge/Foundry-0d1117?style=for-the-badge&logo=ethereum&logoColor=ff6b35)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-0d1117?style=for-the-badge&logo=ethereum&logoColor=7B2FBE)
+![Hardhat](https://img.shields.io/badge/Hardhat-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=FFF100)
+![IPFS](https://img.shields.io/badge/IPFS-0d1117?style=for-the-badge&logo=ipfs&logoColor=bf80ff)
+![Polygon](https://img.shields.io/badge/Polygon-0d1117?style=for-the-badge&logo=polygon&logoColor=9966cc)
+![Chainlink](https://img.shields.io/badge/Chainlink-0d1117?style=for-the-badge&logo=chainlink&logoColor=bf80ff)
 
 </div>
 
@@ -229,16 +236,16 @@ fn main() {
 
 <div align="center">
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=bf80ff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-0d1117?style=for-the-badge&logo=elasticsearch&logoColor=005571)
-![Apache Kafka](https://img.shields.io/badge/Kafka-0d1117?style=for-the-badge&logo=apachekafka&logoColor=231F20)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-0d1117?style=for-the-badge&logo=clickhouse&logoColor=FFCC01)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-0d1117?style=for-the-badge&logo=elasticsearch&logoColor=9966cc)
+![Apache Kafka](https://img.shields.io/badge/Kafka-0d1117?style=for-the-badge&logo=apachekafka&logoColor=bf80ff)
 ![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![PineconeDB](https://img.shields.io/badge/Pinecone-0d1117?style=for-the-badge&logo=pinecone&logoColor=00B4D8)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=9966cc)
 ![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=bf80ff)
+![Neo4j](https://img.shields.io/badge/Neo4j-0d1117?style=for-the-badge&logo=neo4j&logoColor=9966cc)
 
 </div>
 
@@ -250,10 +257,31 @@ fn main() {
 
 ![Android](https://img.shields.io/badge/Android-0d1117?style=for-the-badge&logo=android&logoColor=3DDC84)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
-![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=02569B)
-![React Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-0d1117?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4)
+![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=bf80ff)
+![React Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=9966cc)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-0d1117?style=for-the-badge&logo=jetpackcompose&logoColor=bf80ff)
 ![Expo](https://img.shields.io/badge/Expo-0d1117?style=for-the-badge&logo=expo&logoColor=ffffff)
+
+</div>
+
+---
+
+### 〔 09 〕 TOOLS · IDE · ENVIRONMENT
+
+<div align="center">
+
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=bf80ff)
+![Neovim](https://img.shields.io/badge/Neovim-0d1117?style=for-the-badge&logo=neovim&logoColor=57A143)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-0d1117?style=for-the-badge&logo=intellijidea&logoColor=9966cc)
+![PyCharm](https://img.shields.io/badge/PyCharm-0d1117?style=for-the-badge&logo=pycharm&logoColor=21D789)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Insomnia](https://img.shields.io/badge/Insomnia-0d1117?style=for-the-badge&logo=insomnia&logoColor=bf80ff)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)
+![Obsidian](https://img.shields.io/badge/Obsidian-0d1117?style=for-the-badge&logo=obsidian&logoColor=7B2FBE)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![tmux](https://img.shields.io/badge/tmux-0d1117?style=for-the-badge&logo=tmux&logoColor=1BB91F)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-0d1117?style=for-the-badge&logo=virtualbox&logoColor=bf80ff)
 
 </div>
 
@@ -263,20 +291,20 @@ fn main() {
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Kernel-X&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=00fff2&text_color=c0c0c0" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kernel-X&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c0c0c0&langs_count=8" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Kernel-X&show_icons=true&hide_border=true&bg_color=0d1117&title_color=bf80ff&icon_color=7B2FBE&text_color=c0c0c0&ring_color=7B2FBE" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kernel-X&layout=compact&hide_border=true&bg_color=0d1117&title_color=bf80ff&text_color=c0c0c0&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kernel-X&theme=radical&hide_border=true&background=0d1117&ring=00fff2&fire=00fff2&currStreakLabel=00fff2&sideLabels=c0c0c0&dates=888888&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kernel-X&hide_border=true&background=0d1117&ring=7B2FBE&fire=bf80ff&currStreakLabel=bf80ff&sideLabels=c0c0c0&dates=888888&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kernel-X&bg_color=0d1117&color=00fff2&line=00fff2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kernel-X&bg_color=0d1117&color=bf80ff&line=7B2FBE&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -286,7 +314,7 @@ fn main() {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kernel-X&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kernel-X&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -296,12 +324,13 @@ fn main() {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/◈_GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00fff2)](https://github.com/Kernel-X)
-[![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00fff2)](https://linkedin.com)
-[![X](https://img.shields.io/badge/◈_X-0d1117?style=for-the-badge&logo=x&logoColor=00fff2)](https://x.com)
+[![GitHub](https://img.shields.io/badge/◈_GitHub-0d1117?style=for-the-badge&logo=github&logoColor=bf80ff)](https://github.com/Kernel-X)
+[![Portfolio](https://img.shields.io/badge/◈_Portfolio-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=bf80ff)](https://kernel-x.dev)
+[![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=bf80ff)](https://linkedin.com)
+[![X](https://img.shields.io/badge/◈_X-0d1117?style=for-the-badge&logo=x&logoColor=bf80ff)](https://x.com)
 [![HackTheBox](https://img.shields.io/badge/◈_HackTheBox-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://hackthebox.com)
 [![TryHackMe](https://img.shields.io/badge/◈_TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=C11111)](https://tryhackme.com)
-[![Dev.to](https://img.shields.io/badge/◈_Dev.to-0d1117?style=for-the-badge&logo=devdotto&logoColor=00fff2)](https://dev.to)
+[![Dev.to](https://img.shields.io/badge/◈_Dev.to-0d1117?style=for-the-badge&logo=devdotto&logoColor=bf80ff)](https://dev.to)
 
 </div>
 
@@ -309,18 +338,19 @@ fn main() {
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Kernel-X&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d1117&color=00fff2" />
+<img src="https://komarev.com/ghpvc/?username=Kernel-X&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d1117&color=7B2FBE" />
 
 <br/><br/>
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════╗
-║  "Security is not a product, but a process."       — Bruce Schneier   ║
+║  "Security is not a product, but a process."       — Bruce Schneier  ║
 ║  "Make it work, make it right, make it fast."      — Kent Beck        ║
 ║  "The only truly secure system is one powered off."                   ║
 ╚═══════════════════════════════════════════════════════════════════════╝
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00fff2,40:041530,80:020818,100:000000&height=150&section=footer&animation=twinkling" />
+<!-- FOOTER WAVE VIOLET -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:12003a,100:7B2FBE&height=150&section=footer" />
 
 </div>
